@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(207, 207, 207);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.images{
+    text-align: center;
+}
+
+.images img{
+    margin: 7px;
+    width: 20%;
+    height: 300px;
+    
+}
+
+img{
+    border: 2px black;
+}
+
+p{
+    color: rgba(104, 103, 103, 0.676);
+}
+
+.buttons h3{
+    display: inline-block;
+    border-radius: 30px;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    color: aliceblue;
+    background-color: black;
+}

@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(150, 150, 150);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+form{
+    width: 300px;
+    background-color: cadetblue;
+}
